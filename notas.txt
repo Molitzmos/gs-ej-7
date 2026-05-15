@@ -1,1 +1,2 @@
 Lista principal de notas
+Practicar git
